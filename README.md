@@ -1,2 +1,66 @@
-# Azamjon-
-Azamjon 
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Azamjon Invest</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f2f2f2;
+      margin: 0;
+      padding: 20px;
+    }
+    .header {
+      text-align: center;
+      background: #007bff;
+      color: white;
+      padding: 15px;
+      border-radius: 10px;
+    }
+    .card {
+      background: white;
+      border-radius: 10px;
+      padding: 15px;
+      margin-top: 15px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    .btn {
+      display: inline-block;
+      background: #007bff;
+      color: white;
+      padding: 8px 15px;
+      border-radius: 8px;
+      text-decoration: none;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <h2>Azamjon Invest Loyihalari</h2>
+  </div>
+
+  <div class="card">
+    <h3>🏠 Ko‘chmas Mulk Invest</h3>
+    <p>Uy, yer yoki ofis loyihalariga sarmoya kiritish imkoniyati.</p>
+    <p><b>Foyda:</b> 12% | <b>Muddat:</b> 6 oy</p>
+    <a href="#" class="btn">Batafsil</a>
+  </div>
+
+  <div class="card">
+    <h3>🚗 Avto Invest</h3>
+    <p>Mashina ijarasi yoki autopark loyihalari orqali foyda olish.</p>
+    <p><b>Foyda:</b> 15% | <b>Muddat:</b> 4 oy</p>
+    <a href="#" class="btn">Batafsil</a>
+  </div>
+
+  <div class="card">
+    <h3>🌾 Fermer Invest</h3>
+    <p>Issiqxona, chorvachilik va agro loyihalarda sarmoya imkoniyati.</p>
+    <p><b>Foyda:</b> 14% | <b>Muddat:</b> 8 oy</p>
+    <a href="#" class="btn">Batafsil</a>
+  </div>
+
+</body>
+</html>
